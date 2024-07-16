@@ -9,7 +9,7 @@ Buon lavoro!
 
 2 integro il link per vue
 
-3 dichiaro nello scvript il vue
+3 dichiaro nello script il vue
 
 4 dentro il vue vado a dichiarere l'informazione da stampare sul dom
 
